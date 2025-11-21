@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Interface",
+  "description": "A voice-activated AI assistant interface inspired by Iron Man, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
